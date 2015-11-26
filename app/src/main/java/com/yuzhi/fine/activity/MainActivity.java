@@ -23,7 +23,7 @@ public class MainActivity extends BaseFragmentActivity {
     private static int currSel = 0;
 
     private RadioGroup group;
-    //privayte
+    //privaytegghgfh fch
     private int a;
     private Fragment homeFragment = new MainPagerFragment();
     private Fragment imFragment = new BufferKnifeFragment();
